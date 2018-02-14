@@ -2,8 +2,8 @@
 Changelog for package willow_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.3 (2018-02-14)
+------------------
 * Merge pull request `#2 <https://github.com/pr2/willow_maps/issues/2>`_ from k-okada/fix_cmake
   Fix cmake
 * Merge pull request `#1 <https://github.com/pr2/willow_maps/issues/1>`_ from k-okada/orph
